@@ -1,4 +1,4 @@
 # my-project
 This is my first git repository
 <br>
-Author - Sakshi Jagadale
+Author - Sakshi (my project)
